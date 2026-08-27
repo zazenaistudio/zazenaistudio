@@ -19,12 +19,12 @@
 
 <!-- Studio system row: Technologies + Process + Philosophy -->
 <p align="center">
-  <img src="./assets/sections/technologies1.png" width="43%" alt="Technologies" />
-  <img src="./assets/sections/our-process1.png" width="31%" alt="Our Process — Idea, Design, Code, AI, Experience" />
-  <img src="./assets/sections/our-philosophy1.png" width="24%" alt="Our Philosophy — Imagination applied to code" />
+  <img src="./assets/sections/technologies1.png" width="38%" alt="Technologies" />
+  <img src="./assets/sections/our-process1.png" width="30%" alt="Our Process — Idea, Design, Code, AI, Experience" />
+  <img src="./assets/sections/our-philosophy1.png" width="31%" alt="Our Philosophy — Imagination applied to code" />
 </p>
 
 <!-- Compact footer from the mockup -->
 <p align="center">
-  <img src="./assets/sections/lets-connect.png" width="100%" alt="Let's connect — YouTube, X and email" />
+  <a href="https://www.youtube.com/@ZazenAIStudio"><img src="./assets/sections/lets-connect.png" width="50%" alt="Let's connect — YouTube, X and email" /></a>
 </p>
