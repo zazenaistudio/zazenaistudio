@@ -4,15 +4,15 @@
 -->
 
 <p align="center">
-  <img src="./assets/brand/zazen-ai-studio-banner.png" width="100%" alt="Zazen AI Studio — Ideas. Energy. Learning. Magic made real." />
+  <img src="./assets/brand/zazen-ai-studio-banner-icon.png" width="100%" alt="Zazen AI Studio — Ideas. Energy. Learning. Magic made real." />
 </p>
 
-<!-- Approved V4 top section: intentionally preserved -->
+<!-- Main showcase row: About + 3 product cards -->
 <p align="center">
   <img src="./assets/sections/about-zazen-ai-studio.png" width="27%" alt="About Zazen AI Studio" />
-  <a href="https://github.com/zazenaistudio/chibi-notes-windows"><img src="./assets/projects/chibi-notes.png" width="23%" alt="Chibi Notes" /></a>
-  <a href="https://github.com/zazenaistudio/bolty-switch-windows"><img src="./assets/projects/bolty-switch.png" width="23%" alt="Bolty Switch" /></a>
-  <a href="https://github.com/zazenaistudio/onigiri-test-original"><img src="./assets/projects/onigiri-test.png" width="23%" alt="Onigiri Test" /></a>
+  <a href="https://github.com/zazenaistudio/chibi-notes-windows"><img src="./assets/projects/chibi-notes-icon1.png" width="23%" alt="Chibi Notes" /></a>
+  <a href="https://github.com/zazenaistudio/bolty-switch-windows"><img src="./assets/projects/bolty-switch-icon1.png" width="23%" alt="Bolty Switch" /></a>
+  <a href="https://github.com/zazenaistudio/onigiri-test-original"><img src="./assets/projects/onigiri-test-icon1.png" width="23%" alt="Onigiri Test" /></a>
 </p>
 
 <p align="center">
@@ -261,23 +261,6 @@ The mascots are not decorative stickers added at the end. They are part of the i
 ---
 
 ## 🌐 Projects & contact
-
-<table>
-<tr>
-<td width="33%" align="center">
-<a href="https://github.com/zazenaistudio/chibi-notes-windows"><strong>🐥 Chibi Notes</strong></a><br>
-Visual notes for Windows
-</td>
-<td width="33%" align="center">
-<a href="https://github.com/zazenaistudio/bolty-switch-windows"><strong>⚡ Bolty Switch</strong></a><br>
-Windows automation
-</td>
-<td width="33%" align="center">
-<a href="https://github.com/zazenaistudio/onigiri-test-original"><strong>🍙 Onigiri Test</strong></a><br>
-Study plugin for Obsidian
-</td>
-</tr>
-</table>
 
 <p align="center">
   <a href="https://github.com/zazenaistudio"><img src="https://img.shields.io/badge/GitHub-zazenaistudio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
