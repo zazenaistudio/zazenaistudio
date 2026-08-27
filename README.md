@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/brand/zazen-ai-studio-banner1.png" width="100%" alt="Zazen AI Studio — Ideas. Energy. Learning. Magic made real." />
+  <img src="./assets/brand/zazen-ai-studio-banner-icon.png" width="100%" alt="Zazen AI Studio — Ideas. Energy. Learning. Magic made real." />
 </p>
 
 <!-- Main showcase row: About + 3 product cards -->
