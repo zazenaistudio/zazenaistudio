@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/sections/lets-connect.png" width="100%" alt="Let's connect" />
+  <img src="./assets/sections/lets-connect1.png" width="80%" alt="Let's connect" />
 </p>
 
 ---
@@ -291,7 +291,7 @@ The public projects are distributed under **Zazen AI Studio** licensing terms. T
 ---
 
 <p align="center">
+  <img src="./assets/brand/perfil_zazenaistudio.png" width="25%" alt="Zazen AI Studio — Ideas. Energy. Learning. Magic made real." />
   <strong>⚡ Design Your Future · Coding Your Life ⚡</strong><br>
   <sub>Ideas. Energy. Learning. Magic made real.</sub><br><br>
-  <a href="mailto:zazenaistudio@gmail.com">zazenaistudio@gmail.com</a>
 </p>
