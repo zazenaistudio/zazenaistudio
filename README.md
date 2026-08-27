@@ -16,24 +16,25 @@
 </p>
 
 <p align="center">
-  <img src="./assets/sections/technologies.png" width="43%" alt="Technologies" />
-  <img src="./assets/sections/our-process.png" width="31%" alt="Our Process — Idea, Design, Code, AI, Experience" />
-  <img src="./assets/sections/our-philosophy.png" width="24%" alt="Our Philosophy — Imagination applied to code" />
+  <img src="./assets/sections/technologies.png" width="39%" alt="Technologies" />
+  <img src="./assets/sections/our-process.png" width="32%" alt="Our Process — Idea, Design, Code, AI, Experience" />
+  <img src="./assets/sections/our-philosophy.png" width="26%" alt="Our Philosophy — Imagination applied to code" />
 </p>
 
 <p align="center">
-  <img src="./assets/sections/lets-connect1.png" width="80%" alt="Let's connect" />
+  <a href="https://www.linkedin.com/in/zazensamu/"><img src="./assets/sections/lets-connect1.png" width="85%" alt="Let's connect" /></a>
 </p>
 
 ---
 
-## ✨ Studio ecosystem
-
-**Zazen AI Studio** combines software engineering, playful visual design and local-first experiences. The current public ecosystem is built around three projects with different personalities but the same goal: making useful software feel more creative, approachable and memorable.
+## ⭐ Studio Ecosystem
 
 <p align="center">
   <img src="./assets/concepts/studio-ecosystem.png" width="100%" alt="Conceptual visual board of the Zazen AI Studio ecosystem" />
 </p>
+
+**Zazen AI Studio** combines software engineering, playful visual design and local-first experiences. The current public ecosystem is built around three projects with different personalities but the same goal: making useful software feel more creative, approachable and memorable.
+
 
 > **Visual direction board:** the illustration above is a creative overview. The technical details and project capabilities listed below are taken from the projects themselves.
 
@@ -291,7 +292,7 @@ The public projects are distributed under **Zazen AI Studio** licensing terms. T
 ---
 
 <p align="center">
-  <img src="./assets/brand/perfil_zazenaistudio.png" width="25%" alt="Zazen AI Studio — Ideas. Energy. Learning. Magic made real." />
+  <img src="./assets/brand/perfil_zazenaistudio.png" width="25%" alt="Zazen AI Studio — Ideas. Energy. Learning. Magic made real." /><br>
   <strong>⚡ Design Your Future · Coding Your Life ⚡</strong><br>
   <sub>Ideas. Energy. Learning. Magic made real.</sub><br><br>
 </p>
