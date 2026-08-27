@@ -12,9 +12,9 @@
 <!-- Main showcase row: About + 3 product cards -->
 <p align="center">
   <img src="./assets/sections/about-zazen-ai-studio.png" width="27%" alt="About Zazen AI Studio" />
-  <a href="https://github.com/zazenaistudio/chibi-notes-windows"><img src="./assets/projects/chibi-notes.png" width="23%" alt="Chibi Notes" /></a>
-  <a href="https://github.com/zazenaistudio/bolty-switch-windows"><img src="./assets/projects/bolty-switch.png" width="23%" alt="Bolty Switch" /></a>
-  <a href="https://github.com/zazenaistudio/onigiri-test-original"><img src="./assets/projects/onigiri-test.png" width="23%" alt="Onigiri Test" /></a>
+  <a href="https://github.com/zazenaistudio/chibi-notes-windows"><img src="./assets/projects/chibi-notes-icon.png" width="23%" alt="Chibi Notes" /></a>
+  <a href="https://github.com/zazenaistudio/bolty-switch-windows"><img src="./assets/projects/bolty-switch-icon.png" width="23%" alt="Bolty Switch" /></a>
+  <a href="https://github.com/zazenaistudio/onigiri-test-original"><img src="./assets/projects/onigiri-test-icon.png" width="23%" alt="Onigiri Test" /></a>
 </p>
 
 <!-- Studio system row: Technologies + Process + Philosophy -->
